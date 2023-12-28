@@ -7,13 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@iconify/vue": "^4.1.1",
-    "bootstrap": "^5.3.1",
+    "@fontsource/gochi-hand": "^5.0.18",
     "core-js": "^3.8.3",
     "icons": "^1.0.0",
-    "vue": "^3.2.13"
+    "mdb-vue-ui-kit": "^4.1.1",
+    "vue": "^3.2.13",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
   }
